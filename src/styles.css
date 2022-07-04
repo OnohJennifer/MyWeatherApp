@@ -28,9 +28,9 @@
 }
 .coder {
   text-align: center;
-  color: #0971f1;
+  color: #ba719e;
   font-weight: 100px;
-  font-size: 15px;
+  font-size: 30px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 .condition {
@@ -61,7 +61,7 @@
 }
 a {
   text-decoration: none;
-  color: black;
+  color: #ffff;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 a:hover {
